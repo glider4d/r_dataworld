@@ -1,0 +1,2 @@
+rootProject.name = "radio_dataworld"
+include ':app'
